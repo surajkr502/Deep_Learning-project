@@ -18,7 +18,10 @@ DL_project
 datasets
 *.jpeg
 *.jpg
-
+*.png
+*.gif
+*.mp4
+*.webp
 # Environment variables
 .env
 
